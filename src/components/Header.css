@@ -1,0 +1,22 @@
+#Header {
+    height: 140px;
+    margin-top: 15px;
+    background-color: #ffffff;
+
+}
+
+#Header img {
+    width: 350px;
+}
+
+.user-detail {
+    margin-top: 15px;
+}
+
+.login-name {
+    margin-bottom: 10px;
+}
+
+.user-button {
+    width: 100%;
+}
