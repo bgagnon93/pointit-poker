@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pointit-poker/static/css/main.3d91fcb2.chunk.css",
+    "main.js": "/pointit-poker/static/js/main.8679782c.chunk.js",
+    "main.js.map": "/pointit-poker/static/js/main.8679782c.chunk.js.map",
+    "runtime-main.js": "/pointit-poker/static/js/runtime-main.e88961a7.js",
+    "runtime-main.js.map": "/pointit-poker/static/js/runtime-main.e88961a7.js.map",
+    "static/css/2.150d169a.chunk.css": "/pointit-poker/static/css/2.150d169a.chunk.css",
+    "static/js/2.0e793c9a.chunk.js": "/pointit-poker/static/js/2.0e793c9a.chunk.js",
+    "static/js/2.0e793c9a.chunk.js.map": "/pointit-poker/static/js/2.0e793c9a.chunk.js.map",
+    "static/js/3.02a76169.chunk.js": "/pointit-poker/static/js/3.02a76169.chunk.js",
+    "static/js/3.02a76169.chunk.js.map": "/pointit-poker/static/js/3.02a76169.chunk.js.map",
+    "index.html": "/pointit-poker/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/pointit-poker/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.3d91fcb2.chunk.css.map": "/pointit-poker/static/css/main.3d91fcb2.chunk.css.map",
+    "static/js/2.0e793c9a.chunk.js.LICENSE.txt": "/pointit-poker/static/js/2.0e793c9a.chunk.js.LICENSE.txt",
+    "static/media/PointItPoker.b2b6baf8.png": "/pointit-poker/static/media/PointItPoker.b2b6baf8.png",
+    "static/media/ScrumSideWebLogo.98e8eef4.png": "/pointit-poker/static/media/ScrumSideWebLogo.98e8eef4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e88961a7.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.0e793c9a.chunk.js",
+    "static/css/main.3d91fcb2.chunk.css",
+    "static/js/main.8679782c.chunk.js"
+  ]
+}
